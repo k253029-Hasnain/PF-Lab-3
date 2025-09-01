@@ -1,4 +1,5 @@
-This Is the Profile.md of my second branch
+This Is the Profile.md of my second branch\
+Another Update\
 # Introduction to GitHub
 **This text is bold**\
 *This text is italics*\
